@@ -34,10 +34,11 @@ Analysis: Utilization of the Gemini API to analyze the Q-values matrix and gener
 How to Run (English)
 To run this project, follow these steps:
 Prerequisites:
-```Python 3.x
-Required libraries: numpy, pandas, gym, tensorflow, seaborn, matplotlib, requests
+-Python 3.x
+-Required libraries: `numpy`, `pandas`, `gym`, `tensorflow`, `seaborn`, `matplotlib`, `requests`
+
 Install Libraries**:
-```
+
 ```bash
 pip install numpy pandas gym tensorflow seaborn matplotlib requests
 ```
