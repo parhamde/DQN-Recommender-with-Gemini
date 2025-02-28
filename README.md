@@ -33,11 +33,11 @@ Agent: A DQN agent that learns to recommend items to users.
 Analysis: Utilization of the Gemini API to analyze the Q-values matrix and generate explanations.
 How to Run (English)
 To run this project, follow these steps:
-
 Prerequisites:
-Python 3.x
+```Python 3.x
 Required libraries: numpy, pandas, gym, tensorflow, seaborn, matplotlib, requests
 Install Libraries**:
+```
 ```bash
 pip install numpy pandas gym tensorflow seaborn matplotlib requests
 ```
