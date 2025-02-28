@@ -37,17 +37,15 @@ To run this project, follow these steps:
 Prerequisites:
 Python 3.x
 Required libraries: numpy, pandas, gym, tensorflow, seaborn, matplotlib, requests
-Install Libraries:
-bash
-Wrap
-Copy
+Install Libraries**:
+```bash
 pip install numpy pandas gym tensorflow seaborn matplotlib requests
+
+
 Run the Code:
 Save the code in a file named main.py.
 Execute the following command in the terminal:
-bash
-Wrap
-Copy
+ ```bash
 python main.py
 Outputs:
 A heatmap of Q-values for each user and item will be displayed.
