@@ -31,8 +31,10 @@ Dataset: A subset of MovieLens 100K with 10 users and related items.
 Environment: A custom Gym-based environment modeling users and items.
 Agent: A DQN agent that learns to recommend items to users.
 Analysis: Utilization of the Gemini API to analyze the Q-values matrix and generate explanations.
-##How to Run (English)
+
+## How to Run (English)
 To run this project, follow these steps:
+
 
 1.**Prerequisites**:
 -Python 3.x
